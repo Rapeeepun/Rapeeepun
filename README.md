@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rapeepun</h1>
+<h1 align="center">Hi 🙏🏻, I'm Rapeepun</h1>
 <h3 align="center">🌻I'm a 3rd year student in computer engineering🌻</h3>
 <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rapeeepun&label=Profile%20views&color=0e75b6&style=flat" alt="rapeeepun" /> </p>
